@@ -1,0 +1,6 @@
+﻿Reducers,Reduce Time,Shuffle,Merge,WallClockReduceTime,Total Job1 Time,Total Job2 Time,Total Elapsed Time,Job1 Link,Job2 Link
+1,24,15,22,61,213,15,228,http://turing.cds.iisc.ac.in:19888/jobhistory/job/job_1524406905265_1978,http://turing.cds.iisc.ac.in:19888/jobhistory/job/job_1524406905265_1981
+2,12,12,9,33,192,16,208,http://turing.cds.iisc.ac.in:19888/jobhistory/job/job_1524406905265_1987,http://turing.cds.iisc.ac.in:19888/jobhistory/job/job_1524406905265_1992
+5,5,5,3,13,176,17,193,http://turing.cds.iisc.ac.in:19888/jobhistory/job/job_1524406905265_1995,http://turing.cds.iisc.ac.in:19888/jobhistory/job/job_1524406905265_2000
+8,3,3,2,8,174,15,189,http://turing.cds.iisc.ac.in:8088/proxy/application_1524406905265_2001/,http://turing.cds.iisc.ac.in:19888/jobhistory/job/job_1524406905265_2006
+10,2,13,1,16,196,17,213,http://turing.cds.iisc.ac.in:19888/jobhistory/job/job_1524406905265_2009,http://turing.cds.iisc.ac.in:19888/jobhistory/job/job_1524406905265_2015

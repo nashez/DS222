@@ -1,0 +1,69 @@
+Compilation:
+Go to the folder where pom.xml is present and execute:
+mvn clean compile assembly:single 
+
+
+Command to Run:
+Go to the folder where pom.xml is present and execute:
+
+java -jar target/q1-1.0-SNAPSHOT-jar-with-dependencies.jar /scratch/ds222-2017/assignment-1/DBPedia.full/full_train.txt /scratch/ds222-2017/assignment-1/DBPedia.full/full_test.txt /scratch/ds222-2017/assignment-1/DBPedia.full/full_devel.txt
+
+---------------------------------------------------------------------------
+Output:
+---------------------------------------------------------------------------
+
+Instance 1:
+
+Correctly Classified : 206389   Total : 214997
+Training Accuracy = 95.99622320311447
+Time Taken = 604693
+
+
+
+Correctly Classified : 43156    Total : 61497
+Development Accuracy = 70.1757809324032
+Time Taken = 113995
+
+
+
+Correctly Classified : 22051    Total : 29997
+Testing Accuracy = 73.51068440177352
+Time Taken = 47529
+
+
+Instance 2:
+
+Training Time Taken = 19 seconds
+
+
+Correctly Classified : 206389   Total : 214997
+Training Accuracy = 95.99622320311447
+Time Taken = 526 seconds
+
+
+
+Correctly Classified : 43156    Total : 61497
+Development Accuracy = 70.1757809324032
+Time Taken = 101 seconds
+
+
+
+Correctly Classified : 22051    Total : 29997
+Testing Accuracy = 73.51068440177352
+Time Taken = 41
+
+
+
+Correct One
+
+Training Time Taken = 18 seconds
+Correctly Classified : 157526   Total : 214997
+Training Accuracy = 73.26892933389769
+Time Taken = 535 seconds
+Correctly Classified : 33816    Total : 61497
+Development Accuracy = 54.98804819747305
+Time Taken = 103 seconds
+Correctly Classified : 17882    Total : 29997
+Testing Accuracy = 59.61262792945961
+Time Taken = 42
+
