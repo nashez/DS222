@@ -1,0 +1,51 @@
+Error before training 0.963296629963
+Iteration = 1
+Epoch Time = 75.5054819584
+
+Error = 0.279279279279
+Loss = 3362.05
+Iteration = 2
+Epoch Time = 75.0658221245
+
+Error = 0.243576910244
+Loss = 2875.31
+Iteration = 3
+Epoch Time = 76.6770989895
+
+Error = 0.232565899233
+Loss = 2756.7
+Iteration = 4
+Epoch Time = 77.4352660179
+
+Error = 0.253920587254
+Loss = 2836.39
+Iteration = 5
+Epoch Time = 72.896602869
+
+Error = 0.879212545879
+Loss = nan
+Iteration = 6
+Epoch Time = 77.0437860489
+
+Error = 0.963296629963
+Loss = nan
+Iteration = 7
+Epoch Time = 74.36769104
+
+Error = 0.963296629963
+Loss = nan
+Iteration = 8
+Epoch Time = 75.0772209167
+
+Error = 0.963296629963
+Loss = nan
+Iteration = 9
+Epoch Time = 74.3392801285
+
+Error = 0.963296629963
+Loss = nan
+Iteration = 10
+Epoch Time = 74.8185720444
+
+Error = 0.963296629963
+Loss = nan
